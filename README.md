@@ -9,6 +9,6 @@ While  smartphones (Iphone and Samsung) can utilize all functionalities, a basic
 
 Forcing the BasicPhone class to implement unused methods (browseWeb and takePicture) violates ISP. 
 
-[2.png](https://github.com/DarylTManampan/OOPSolidLabExercise/blob/main/2.png)
+![2.png](https://github.com/DarylTManampan/OOPSolidLabExercise/blob/main/2.png)
 
 Show your solution in codes how to remove the Interface Segregation problem. 
